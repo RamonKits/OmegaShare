@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1623702635274,
+  "index": "https://crazyRamon.github.io/OmegaShare/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://crazyRamon.github.io/OmegaShare/index.html",
+        "https://crazyRamon.github.io/OmegaShare/main.d75fcf83c97cb5bf69c8.js",
+        "https://crazyRamon.github.io/OmegaShare/manifest.webmanifest",
+        "https://crazyRamon.github.io/OmegaShare/polyfills.5851e6ac6a8655461f26.js",
+        "https://crazyRamon.github.io/OmegaShare/runtime.7b63b9fd40098a2e8207.js",
+        "https://crazyRamon.github.io/OmegaShare/scripts.b0760a4fa05fc200dfbb.js",
+        "https://crazyRamon.github.io/OmegaShare/styles.a157470836dcf3615063.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-128x128.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-144x144.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-152x152.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-192x192.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-384x384.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-512x512.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-72x72.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-96x96.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/img/plat_groot.png",
+        "https://crazyRamon.github.io/OmegaShare/assets/img/plat_groot_licht.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-128x128.png": "0cf44d736bfb1609299c25f95d03b8fcdb8b33e9",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-144x144.png": "f969dbdfc35900d3e2bc9cd32f68abddc7789526",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-152x152.png": "f4a8f2299e14f0939befe1aa601157081afeb745",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-192x192.png": "a2ca887ba27e2a0d969e31ddbd9d57bd72d6bcb1",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-384x384.png": "3f6c94e95c984d91e80d7e774c35dfce01ca01be",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-512x512.png": "da4414e67db87f993c9f5bb33bcbd1483a293240",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-72x72.png": "b119091e813dcf6231de97150840cce61cdba020",
+    "https://crazyRamon.github.io/OmegaShare/assets/icons/icon-96x96.png": "4de484d3f6f4293c57e431fc7042dd42f6ce9bb8",
+    "https://crazyRamon.github.io/OmegaShare/assets/img/plat_groot.png": "4bc947dc4a51352d891e3204964a257282cd37e7",
+    "https://crazyRamon.github.io/OmegaShare/assets/img/plat_groot_licht.png": "951af2dc9360389494b0464535391f638955610d",
+    "https://crazyRamon.github.io/OmegaShare/index.html": "dcc4e497c268556f3adfeea7ac498f62d75869dd",
+    "https://crazyRamon.github.io/OmegaShare/main.d75fcf83c97cb5bf69c8.js": "8a2b8c48d36d72a603b2b2ece1a5bdef788c0371",
+    "https://crazyRamon.github.io/OmegaShare/manifest.webmanifest": "021e078865104a9ef5e817d9e57c48733da1373f",
+    "https://crazyRamon.github.io/OmegaShare/polyfills.5851e6ac6a8655461f26.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
+    "https://crazyRamon.github.io/OmegaShare/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://crazyRamon.github.io/OmegaShare/scripts.b0760a4fa05fc200dfbb.js": "3ea77a616c7054521651c8a61b18903f4ec80ce4",
+    "https://crazyRamon.github.io/OmegaShare/styles.a157470836dcf3615063.css": "d0e9b7de108c264a2204b36343d0e2ced602add6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
