@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623703792102,
+  "timestamp": 1623704315836,
   "index": "https://crazyramon.github.io/OmegaShare/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://crazyramon.github.io/OmegaShare/assets/icons/favicon.png",
         "https://crazyramon.github.io/OmegaShare/assets/icons/icon-128x128.png",
         "https://crazyramon.github.io/OmegaShare/assets/icons/icon-144x144.png",
         "https://crazyramon.github.io/OmegaShare/assets/icons/icon-152x152.png",
@@ -45,6 +46,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://crazyramon.github.io/OmegaShare/assets/icons/favicon.png": "4de484d3f6f4293c57e431fc7042dd42f6ce9bb8",
     "https://crazyramon.github.io/OmegaShare/assets/icons/icon-128x128.png": "0cf44d736bfb1609299c25f95d03b8fcdb8b33e9",
     "https://crazyramon.github.io/OmegaShare/assets/icons/icon-144x144.png": "f969dbdfc35900d3e2bc9cd32f68abddc7789526",
     "https://crazyramon.github.io/OmegaShare/assets/icons/icon-152x152.png": "f4a8f2299e14f0939befe1aa601157081afeb745",
@@ -55,7 +57,7 @@
     "https://crazyramon.github.io/OmegaShare/assets/icons/icon-96x96.png": "4de484d3f6f4293c57e431fc7042dd42f6ce9bb8",
     "https://crazyramon.github.io/OmegaShare/assets/img/plat_groot.png": "4bc947dc4a51352d891e3204964a257282cd37e7",
     "https://crazyramon.github.io/OmegaShare/assets/img/plat_groot_licht.png": "951af2dc9360389494b0464535391f638955610d",
-    "https://crazyramon.github.io/OmegaShare/index.html": "670e4850c4a57049840f42db0c196309635694e2",
+    "https://crazyramon.github.io/OmegaShare/index.html": "93edf0ad32237101f726b10fd12abc48c808a188",
     "https://crazyramon.github.io/OmegaShare/main.b1fedf353239177a5257.js": "a44f32ef8abf358b4bbd347acc24dddd36331471",
     "https://crazyramon.github.io/OmegaShare/manifest.webmanifest": "021e078865104a9ef5e817d9e57c48733da1373f",
     "https://crazyramon.github.io/OmegaShare/polyfills.5851e6ac6a8655461f26.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
