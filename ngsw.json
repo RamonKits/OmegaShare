@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623703384963,
+  "timestamp": 1623703792102,
   "index": "https://crazyramon.github.io/OmegaShare/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "https://crazyramon.github.io/OmegaShare/index.html",
-        "https://crazyramon.github.io/OmegaShare/main.d75fcf83c97cb5bf69c8.js",
+        "https://crazyramon.github.io/OmegaShare/main.b1fedf353239177a5257.js",
         "https://crazyramon.github.io/OmegaShare/manifest.webmanifest",
         "https://crazyramon.github.io/OmegaShare/polyfills.5851e6ac6a8655461f26.js",
         "https://crazyramon.github.io/OmegaShare/runtime.7b63b9fd40098a2e8207.js",
@@ -55,8 +55,8 @@
     "https://crazyramon.github.io/OmegaShare/assets/icons/icon-96x96.png": "4de484d3f6f4293c57e431fc7042dd42f6ce9bb8",
     "https://crazyramon.github.io/OmegaShare/assets/img/plat_groot.png": "4bc947dc4a51352d891e3204964a257282cd37e7",
     "https://crazyramon.github.io/OmegaShare/assets/img/plat_groot_licht.png": "951af2dc9360389494b0464535391f638955610d",
-    "https://crazyramon.github.io/OmegaShare/index.html": "7834ae2e6df32ff5bfe4750c0822522cd4c74d40",
-    "https://crazyramon.github.io/OmegaShare/main.d75fcf83c97cb5bf69c8.js": "8a2b8c48d36d72a603b2b2ece1a5bdef788c0371",
+    "https://crazyramon.github.io/OmegaShare/index.html": "670e4850c4a57049840f42db0c196309635694e2",
+    "https://crazyramon.github.io/OmegaShare/main.b1fedf353239177a5257.js": "a44f32ef8abf358b4bbd347acc24dddd36331471",
     "https://crazyramon.github.io/OmegaShare/manifest.webmanifest": "021e078865104a9ef5e817d9e57c48733da1373f",
     "https://crazyramon.github.io/OmegaShare/polyfills.5851e6ac6a8655461f26.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
     "https://crazyramon.github.io/OmegaShare/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
