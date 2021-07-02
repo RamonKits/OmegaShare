@@ -1,6 +1,6 @@
 {
-  "name": "omegaShare",
-  "short_name": "omegaShare",
+  "name": "omega-share",
+  "short_name": "omega-share",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
