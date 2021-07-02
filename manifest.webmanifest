@@ -1,8 +1,8 @@
 {
-  "name": "OmegaShare",
-  "short_name": "OmegaShare",
-  "theme_color": "#efefef",
-  "background_color": "#121212",
+  "name": "omegaShare",
+  "short_name": "omegaShare",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
